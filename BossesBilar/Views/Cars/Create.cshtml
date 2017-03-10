@@ -1,0 +1,26 @@
+﻿@model CarsCreateVM
+@{ 
+    ViewBag.Title = "Create Car";
+}
+<h3>Create</h3>
+<form asp-controller="cars" asp-action="create">
+    <label asp-for="Brand"></label>
+    <br />
+    <input asp-for="Brand">
+    <span asp-validation-for="Brand"></span>
+    <br />
+    <label asp-for="Doors"></label>
+    <br />
+    <input asp-for="Doors" />
+    <span asp-validation-for="Doors"></span>
+    <br />
+    <label asp-for="TopSpeed"></label>
+    <br />
+    <input asp-for="TopSpeed" />
+    <span asp-validation-for="TopSpeed"></span>
+    <br />
+    <input type="submit" value="Add Car"/>
+
+</form>
+@Html.Partial("ScriptInjections")
+

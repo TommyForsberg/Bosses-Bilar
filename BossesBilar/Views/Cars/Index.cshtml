@@ -1,0 +1,28 @@
+﻿@model CarsIndexVM[]
+@{
+    ViewBag.Title = "Home";
+}
+<h3>Index</h3>
+<ul class="list-group">
+    @foreach (var car in Model)
+    {
+       
+
+       
+        @if (car.ShowAsFast)
+        {
+            
+            <li class="list-group-item list-group-item-danger">
+            <label asp-for="@car.Brand"></label>
+             @car.Brand @car.OwnerName
+            </li>
+
+        }
+        else
+        {
+
+            <li class="list-group-item list-group-item-success"><label asp-for="@car.Brand">
+                </label> @car.Brand @car.OwnerName</li>
+        }
+    }
+</ul>

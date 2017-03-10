@@ -1,0 +1,9 @@
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\bin\Debug\netcoreapp1.1\BossesBilar.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\bin\Debug\netcoreapp1.1\BossesBilar.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\bin\Debug\netcoreapp1.1\BossesBilar.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\bin\Debug\netcoreapp1.1\BossesBilar.dll
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\obj\Debug\netcoreapp1.1\BossesBilar.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\obj\Debug\netcoreapp1.1\BossesBilar.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\bin\Debug\netcoreapp1.1\BossesBilar.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\obj\Debug\netcoreapp1.1\BossesBilar.dll
+c:\users\tommy\documents\visual studio 2017\Projects\BossesBilar\BossesBilar\obj\Debug\netcoreapp1.1\BossesBilar.pdb
